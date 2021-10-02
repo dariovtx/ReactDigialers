@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Digitalers/static/css/main.5c3d66ac.chunk.css",
+    "main.js": "/Digitalers/static/js/main.c4cf3781.chunk.js",
+    "main.js.map": "/Digitalers/static/js/main.c4cf3781.chunk.js.map",
+    "runtime-main.js": "/Digitalers/static/js/runtime-main.733fda80.js",
+    "runtime-main.js.map": "/Digitalers/static/js/runtime-main.733fda80.js.map",
+    "static/js/2.43179495.chunk.js": "/Digitalers/static/js/2.43179495.chunk.js",
+    "static/js/2.43179495.chunk.js.map": "/Digitalers/static/js/2.43179495.chunk.js.map",
+    "index.html": "/Digitalers/index.html",
+    "static/css/main.5c3d66ac.chunk.css.map": "/Digitalers/static/css/main.5c3d66ac.chunk.css.map",
+    "static/js/2.43179495.chunk.js.LICENSE.txt": "/Digitalers/static/js/2.43179495.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733fda80.js",
+    "static/js/2.43179495.chunk.js",
+    "static/css/main.5c3d66ac.chunk.css",
+    "static/js/main.c4cf3781.chunk.js"
+  ]
+}
